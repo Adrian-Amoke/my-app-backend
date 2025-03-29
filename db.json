@@ -36,8 +36,127 @@
             "album": "Scarlet Claude",
             "coverUrl": "https://i.pinimg.com/736x/42/05/15/420515f2a519190f86a0ab15fea7d8a6.jpg"
         }
+        {
+            "title": "HUMBLE.",
+            "artist": "Kendrick Lamar",
+            "album": "DAMN.",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Humble.png"
+        },
+        {
+            "title": "DNA.",
+            "artist": "Kendrick Lamar",
+            "album": "DAMN.",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/65/Kendrick_Lamar_-_Damn.png"
+        },
+        {
+            "title": "Alright",
+            "artist": "Kendrick Lamar",
+            "album": "To Pimp a Butterfly",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+        },
+        {
+            "title": "Money Trees",
+            "artist": "Kendrick Lamar",
+            "album": "good kid, m.A.A.d city",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Good_kid_maad_city_album_cover.png"
+        },
+        {
+            "title": "Swimming Pools (Drank)",
+            "artist": "Kendrick Lamar",
+            "album": "good kid, m.A.A.d city",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Good_kid_maad_city_album_cover.png"
+        },
+        {
+            "title": "Bitch, Don’t Kill My Vibe",
+            "artist": "Kendrick Lamar",
+            "album": "good kid, m.A.A.d city",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Good_kid_maad_city_album_cover.png"
+        },
+        {
+            "title": "LOVE.",
+            "artist": "Kendrick Lamar",
+            "album": "DAMN.",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/65/Kendrick_Lamar_-_Damn.png"
+        },
+        {
+            "title": "ELEMENT.",
+            "artist": "Kendrick Lamar",
+            "album": "DAMN.",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/65/Kendrick_Lamar_-_Damn.png"
+        },
+        {
+            "title": "The Blacker the Berry",
+            "artist": "Kendrick Lamar",
+            "album": "To Pimp a Butterfly",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+        },
+        {
+            "title": "King Kunta",
+            "artist": "Kendrick Lamar",
+            "album": "To Pimp a Butterfly",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+        },
+          
+        {
+            "title": "Say So",
+            "artist": "Doja Cat",
+            "album": "Hot Pink",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Doja_Cat_-_Hot_Pink.png"
+        },
+        {
+            "title": "Woman",
+            "artist": "Doja Cat",
+            "album": "Planet Her",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Doja_Cat_-_Planet_Her.png"
+        },
+        {
+            "title": "Kiss Me More",
+            "artist": "Doja Cat",
+            "album": "Planet Her",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Doja_Cat_-_Planet_Her.png"
+        },
+        {
+            "title": "Need to Know",
+            "artist": "Doja Cat",
+            "album": "Planet Her",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Doja_Cat_-_Planet_Her.png"
+        },
+        {
+            "title": "Juicy",
+            "artist": "Doja Cat",
+            "album": "Hot Pink",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Doja_Cat_-_Hot_Pink.png"
+        },
+        {
+            "title": "Boss Bitch",
+            "artist": "Doja Cat",
+            "album": "Birds of Prey: The Album",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Birds_of_Prey_-_The_Album.png"
+        },
+        {
+            "title": "Streets",
+            "artist": "Doja Cat",
+            "album": "Hot Pink",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Doja_Cat_-_Hot_Pink.png"
+        },
+        {
+            "title": "Like That",
+            "artist": "Doja Cat",
+            "album": "Hot Pink",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Doja_Cat_-_Hot_Pink.png"
+        },
+        {
+            "title": "Rules",
+            "artist": "Doja Cat",
+            "album": "Hot Pink",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Doja_Cat_-_Hot_Pink.png"
+        },
+        {
+            "title": "Tia Tamera",
+            "artist": "Doja Cat",
+            "album": "Amala",
+            "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Doja_Cat_-_Amala.png"
+        }
     ],
-    "favourites": [
-        
-    ]
+    "favourites": []
 }
